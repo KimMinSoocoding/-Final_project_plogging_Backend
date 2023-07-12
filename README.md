@@ -62,6 +62,9 @@
 
 <br>
 
+## :runner: AWS 배포 줍깅주소
+https://jubging.sionms.co.kr/
+
 ## :runner: 프로젝트 명
 나와 지구의 건강을 위한 플로깅 - `줍깅`
 <br>
@@ -118,6 +121,9 @@
 
 <br>
 <img width="800" alt="image" src="https://github.com/KimMinSoocoding/-Final_project_plogging_Backend/assets/113892151/b40c6b5f-6e5c-49f5-8352-c4d98b11a3df">
+<br>
+<img width="800" alt="image" src="https://github.com/KimMinSoocoding/-Final_project_plogging_Backend/assets/113892151/4db654a4-a39d-4894-b931-1b261a678858">
+
 
   
 
@@ -139,3 +145,6 @@
 - :couple_with_heart: `SNS형 팔로우 형식 친구 시스템` : 함께하고 싶은 플로거들을 찾을 수 있는 플린(플로깅 친구) 시스템을 제공합니다. 사용자는 원하는 플로거에게 플친을 신청하고, 신청을 수락 및 거절을 할 수 있습니다. 또 원하지 않는 플로거를 차단하여 더 이상의 위험을 막을 수 있습니다
 
 <br>
+
+## :newspaper: UI/UX - Paper Prototyping
+<img width="1000" alt="image" src="https://github.com/KimMinSoocoding/-Final_project_plogging_Backend/assets/113892151/9da2ad70-04bb-49bf-91c9-5fcd839ef44c">
