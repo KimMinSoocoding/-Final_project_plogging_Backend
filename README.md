@@ -181,14 +181,60 @@
 <br>
 
 ## :notebook: 각 페이지별 기능 구성 및  모바일 / 컴퓨터 UI 화면
+### :pushpin: Index 페이지 : SPA React를 사용하여 UX친화적인 Front 구성
+- 반응형 웹 디자인이 적용된 형태
+- 모바일 환경에서는 상단 탭을 토글 메뉴로 변환
 <img width="800" alt="image" src="https://github.com/KimMinSoocoding/-Final_project_plogging_Backend/assets/113892151/60204285-f5e4-4cd4-8d13-e34a0fa690b7">
+<br>
+
+### :pushpin: 로그인/회원가입 페이지 : Spring Security를 적용한 회원 시스템 
+- Oauth 2.0 활용 구글, 네이버, 카카오 소셜 로그인 지원
+- 다음주소 api 활용한 회원주소 검색
+- Gmail api 활용 이메일 인증을 통한 회원가입 시스템
 <img width="800" alt="image" src="https://github.com/KimMinSoocoding/-Final_project_plogging_Backend/assets/113892151/21895b73-ea10-4eca-a92a-5306fadc5877">
+<br>
+
+### :pushpin: Plogging 페이지 : Tmap api 지도를 활용한 실시간 위치 확인
+- 경유지를 포함한 보행자 경로 표현 
+- 경로명, 경로설명, 출발지 주소를 통한 추천경로 검색
+- Pagination된 검색결과
 <img width="800" alt="image" src="https://github.com/KimMinSoocoding/-Final_project_plogging_Backend/assets/113892151/a1571d1a-0641-4e4d-b2fa-30502db9e36f">
+<br>
+
+### :pushpin: Community 페이지 : 플로깅 완료 시 자동으로 인증 글 작성 페이지
+- 블로그 카드 형식의 카테고리별 게시글 목록 Pagination 조회
+- 이미지 첨부파일이 포함된 글 작성
 <img width="800" alt="image" src="https://github.com/KimMinSoocoding/-Final_project_plogging_Backend/assets/113892151/3d39975a-59fb-4def-8463-c2ffe8a03759">
+<br>
+
+### :pushpin: Challenge 페이지 : 진행중인 챌린지 목록 리스트
+- 챌린지 완료여부별 목록 조회 
+- 챌린지, 챌린지원, 챌린지 일정, 일정 참가자의 유기적 관계 구성
+- 챌린지 일정 클릭 시 플로깅 바로 시작 연결
 <img width="800" alt="image" src="https://github.com/KimMinSoocoding/-Final_project_plogging_Backend/assets/113892151/8b5ef63b-b52f-4f06-be3b-030c703ca3a5">
+<br>
+
+### :pushpin: Reward 페이지 : 포인트 랭킹 서비스
+- 리워드 랜덤박스 목록 및 기부업체 목록 Carousel 조회
+- 리워드 신청시 포인트 차감
 <img width="800" alt="image" src="https://github.com/KimMinSoocoding/-Final_project_plogging_Backend/assets/113892151/0e7dd9eb-b018-4c1e-bcb8-744c49f60916">
+<br>
+
+### :pushpin: 플친 페이지 : ID를 통한 회원 검색 및 플친 여부 조회 페이지
+- 받은 플친 요청과 보낸 플친요청 목록 조회 
+- SNS : 플친 간 메시지 보내기
 <img width="800" alt="image" src="https://github.com/KimMinSoocoding/-Final_project_plogging_Backend/assets/113892151/bfd44a33-229f-40fd-9447-822b136d9b41">
+<br>
+
+### :pushpin: 프로필 페이지 : 나의 프로필, 다른 회원의 프로필을 구분하여 제한적인 정보 노출
+- 회원의 다양한 활동 내역 조회
+- 회원 프로필 수정 및 탈퇴 기능
 <img width="800" alt="image" src="https://github.com/KimMinSoocoding/-Final_project_plogging_Backend/assets/113892151/d35b5bf0-f13a-42dc-9d08-85df4dd86e33">
+<br>
+
+### :pushpin: 관리자 페이지 : 회원의 권한에 따라 관리자 페이지 접근 제한
+- 모든 회원의 모든 활동별 내역 조회 및 관리
+- 원하는 관리 탭 또는 우측하단 화살표 클릭 시 스크롤 이동
 <img width="800" alt="image" src="https://github.com/KimMinSoocoding/-Final_project_plogging_Backend/assets/113892151/c306cf04-ec20-4d74-9f29-3c8ed3bca491">
 
 
