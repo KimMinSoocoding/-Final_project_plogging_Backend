@@ -62,14 +62,15 @@
 
 <br>
 
-## :runner: AWS 배포 줍깅주소
+## :ticket: AWS 배포 줍깅주소
 https://jubging.sionms.co.kr/
+
+<br>
 
 ## :runner: 프로젝트 명
 나와 지구의 건강을 위한 플로깅 - `줍깅`
 <br>
-<br>
-:blue_heart: 직접 제작한 줍깅 마스코트 로고 :blue_heart:
+:earth_americas: 직접 제작한 줍깅 마스코트 로고 :earth_americas:
 <br>
 <br>
 
@@ -87,9 +88,24 @@ https://jubging.sionms.co.kr/
 
 
 ## 🕰️ 개발 기간
-* 23.05.22 - 22.06.30일 총 5주간 진행
+:calendar: 23.05.22 - 22.06.30일 총 5주간 진행
+* 1주차 : 자료선정 및 자료수집
+* 2주차 : 요구사항 분석과 설계
+* 3~4주차 : 기능구현
+* 5주차 : 리뷰 및 테스팅
 
 </br>
+
+## :checkered_flag: 협업관리 - 애자일 스프린트 
+:sound: 원활한 협업을 위한 규칙 설정 
+* 1일 1회의 - 데일리 스크럼
+* Git커밋 후 보고 및 커밋 메시지 공유
+* 문서작성 필수 - 양식 통일
+* 문제상황 발생 1일 이상 지속 시, 보고 후 함께해결
+* 테스트 코드 반드시 작성
+<br>
+<img width="400" alt="image" src="https://github.com/KimMinSoocoding/-Final_project_plogging_Backend/assets/113892151/18647da1-9482-4588-9018-34c77376cfb2">
+
 
 ### 🧑‍🤝‍🧑 맴버구성
  - 팀장  : 천은경 - `친구맺기, 커뮤니티 게시판, 회원:관리자`
@@ -124,8 +140,7 @@ https://jubging.sionms.co.kr/
 <br>
 <img width="800" alt="image" src="https://github.com/KimMinSoocoding/-Final_project_plogging_Backend/assets/113892151/4db654a4-a39d-4894-b931-1b261a678858">
 
-
-  
+<br>
 
 ## :laughing: 프로젝트 설명
 ### :pushpin: 주제선정 동기
