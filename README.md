@@ -52,18 +52,20 @@
 <br>
 
 ## :bulb: 목차
-1. [프로젝트 명](:runner:-프로젝트-명)
-2. [개발기간](#-🕰️-개발-기간)
-3. [맴버구성](#-🧑‍🤝‍🧑-맴버구성)
-4. [요구사항 정리 엑셀파일](#-:floppy_disk:-요구사항정리-엑셀파일)
-5. [개발 프로그램](#-:computer:-개발-프로그램)
-6. [프로젝트 설명](#-:laughing:-프로젝트-설명)
-
+0. [AWS 배포 줍깅주소]
+1. [프로젝트 명]
+2. [개발기간]
+3. [맴버구성]
+4. [요구사항 정리 엑셀파일]
+5. [개발 프로그램]
+6. [프로젝트 설명]
+7. [UI/UX 페이퍼 프로토타입] 
 
 <br>
 
 ## :ticket: AWS 배포 줍깅주소
-https://jubging.sionms.co.kr/
+- https://jubging.sionms.co.kr/
+- 이슈사항 : 웹 소켓으로 인해 https 보안문제로 인한 ssl키 발급하는 과정의 이슈가 있었음 (문제해결)
 
 <br>
 
@@ -79,12 +81,7 @@ https://jubging.sionms.co.kr/
 <img width="700" alt="image" src="https://github.com/KimMinSoocoding/-Final_project_plogging_Backend/assets/113892151/5f53680c-fdb8-431b-a638-4c41332ce486">
 
 
-
 </br>
-
-## :arrows_clockwise: 테이블관계도 ERD
-<br>
-<img width="1000" alt="image" src="https://github.com/KimMinSoocoding/-Final_project_plogging_Backend/assets/113892151/344a3ae7-0049-4966-bd16-63f9e2291e5a">
 
 
 ## 🕰️ 개발 기간
@@ -161,5 +158,20 @@ https://jubging.sionms.co.kr/
 
 <br>
 
+## :arrows_clockwise: 테이블관계도 ERD
+<br>
+<img width="1000" alt="image" src="https://github.com/KimMinSoocoding/-Final_project_plogging_Backend/assets/113892151/344a3ae7-0049-4966-bd16-63f9e2291e5a">
+
+
+<br>
+
 ## :newspaper: UI/UX - Paper Prototyping
 <img width="1000" alt="image" src="https://github.com/KimMinSoocoding/-Final_project_plogging_Backend/assets/113892151/9da2ad70-04bb-49bf-91c9-5fcd839ef44c">
+
+<br>
+
+## :microscope: 추천 경로 데이터 마이닝 작업과정
+<img width="800" alt="image" src="https://github.com/KimMinSoocoding/-Final_project_plogging_Backend/assets/113892151/47b192e2-2712-432f-9d90-fe898ff42128"><img width="800" alt="image" src="https://github.com/KimMinSoocoding/-Final_project_plogging_Backend/assets/113892151/c5cadb56-9204-4923-8605-ed4e41606170">
+
+
+
