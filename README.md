@@ -42,7 +42,7 @@
 	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white" />
 	<img src="https://img.shields.io/badge/SVN-809CC9?style=flat&logo=Subversion&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
-  <img src="https://img.shields.io/badge/sourcetree-0052CC?style=flat&logo=sourcetree&logoColor=white" />
+  	<img src="https://img.shields.io/badge/sourcetree-0052CC?style=flat&logo=sourcetree&logoColor=white" />
 </div>
 <div align=center>
 	<br>
@@ -52,7 +52,7 @@
 <br>
 
 ## :bulb: 목차
-1. [프로젝트 명](#-🖥️-프로젝트-명)
+1. [프로젝트 명](:runner:-프로젝트-명)
 2. [개발기간](#-🕰️-개발-기간)
 3. [맴버구성](#-🧑‍🤝‍🧑-맴버구성)
 4. [프로젝트_요구사항분석_인터페이스명세서_업무분장_테스트케이스_스케쥴 엑셀파일](#-:floppy_disk:-프로젝트_요구사항분석_인터페이스명세서_업무분장_테스트케이스_스케쥴-엑셀파일)
@@ -63,47 +63,64 @@
 
 <br>
 
-## 🖥️  프로젝트 명
-모임형 SNS 담소(담아요 소소한 이야기) - [인스타그램 참고] 
-- `직접 제작한 로고`
-<img width="500" alt="image" src="https://github.com/KimMinSoocoding/semi_damso_Project/assets/113892151/cd6c883c-53ef-4cf3-8183-d4fddb715c67">
+## :runner: 프로젝트 명
+나와 지구의 건강을 위한 플로깅 - `줍깅`
+<br>
+<br>
+:blue_heart: `직접 제작한 줍깅 마스코트 로고`
+<br>
+<br>
+
+<img width="200" alt="image" src="https://github.com/KimMinSoocoding/-Final_project_plogging_Backend/assets/113892151/255764ea-bd58-4809-9eda-cabb9423982f"> <img width="200" alt="image" src="https://github.com/KimMinSoocoding/-Final_project_plogging_Backend/assets/113892151/d86cdfcf-d5c8-4c5a-81eb-f5586899d917">
+
+
+
+
 
 </br>
 
 ## :arrows_clockwise: 테이블관계도 ERD
-<img width="700" alt="image" src="https://github.com/KimMinSoocoding/semi_damso_Project/assets/113892151/ea3178dd-d940-4d42-90cf-c2dc43247aff">
+<br>
+<img width="1000" alt="image" src="https://github.com/KimMinSoocoding/-Final_project_plogging_Backend/assets/113892151/344a3ae7-0049-4966-bd16-63f9e2291e5a">
+
 
 ## 🕰️ 개발 기간
-* 23.04.02 - 22.05.03일
+* 23.05.22 - 22.06.30일 총 5주간 진행
 
 </br>
 
 ### 🧑‍🤝‍🧑 맴버구성
- - 팀장  : 김설하 - `게시판(피드), 알림`
- - 팀원1 : 강태수 - `팔로우 CRUD`
- - 팀원2 : 김민수 - `회원기능(회원 CRUD, 검색, ID찾기, PW재설정, 시큐리티 적용, 이메일발송)` 
- - 팀원3 : 박현민 - `댓글 CRUD`
- - 팀원4 : 천은경 - `모임 CRUD, 메시지(채팅)`
+ - 팀장  : 천은경 - `친구맺기, 커뮤니티 게시판, 회원:관리자`
+ - 팀원1 : 이시화 - `데이터마이닝, 추천경로, 플로깅`
+ - 팀원2 : 김민수 - `모임형 챌린지 기능, 챌린지 맴버, 챌린지 일정, 일정참가자` 
+ - 팀원3 : 이재원 - `포인트 및 뱃지, 리워드`
+ - 팀원4 : 박연재 - `회원 및 권한, 시큐리티, 소셜로그인, 메일인증`
 
 </br>
 
-### :floppy_disk:  프로젝트_요구사항분석_인터페이스명세서_업무분장_테스트케이스_스케쥴 엑셀파일
-[세미 - SNS.xlsx](https://github.com/KimMinSoocoding/semi_damso_Project/files/12011243/-.SNS.xlsx)
+### :floppy_disk:  요구사항정리 엑셀파일
+[줍깅_요구사항정의서.xlsx](https://github.com/KimMinSoocoding/-Final_project_plogging_Backend/files/12026079/_.xlsx)
+
 
 </br>
 
 ### :computer: 개발 프로그램
-- jsp / Servlet
 - DBeaver
-- AJAX
-- Mybatis <img src="https://img.shields.io/badge/Mybatis-2E51A2?style=flat&logo=Fluentd&logoColor=white" />
+- React <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white" />
 - JAVA <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
 - Spring <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
+- SpringBoot / SpringSecurity <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white" /> <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat&logo=springsecurity&logoColor=white" />
 - MariaDB <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white" />
-- HTMl / CSS / Bootstrap <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white" />
-- JavaScript / JQuery <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" /> <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
-- ckEditor <img src="https://img.shields.io/badge/ckeditor-0287D0?style=flat&logo=ckeditor4&logoColor=white" />
-- maven <img src="https://img.shields.io/badge/maven-C71A36?style=flat&logo=apachemaven&logoColor=white" />
+- HTMl / CSS / JavaScript <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
+- Postman  <img src="https://img.shields.io/badge/postman-FF6C37?style=flat&logo=postman&logoColor=white" />
+- aws / Nginx / ApacheTomcat <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white" /> <img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white" />
+- github / sourcetree <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+  <img src="https://img.shields.io/badge/sourcetree-0052CC?style=flat&logo=sourcetree&logoColor=white" />
+
+<br>
+<img width="800" alt="image" src="https://github.com/KimMinSoocoding/-Final_project_plogging_Backend/assets/113892151/b40c6b5f-6e5c-49f5-8352-c4d98b11a3df">
+
+  
 
 ## :laughing: 프로젝트 설명
 ### :pushpin: 주제선정 이유 
