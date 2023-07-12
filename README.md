@@ -260,12 +260,38 @@
 <img width="1000" alt="image" src="https://github.com/KimMinSoocoding/-Final_project_plogging_Backend/assets/113892151/7478a212-ca4f-4bb9-9f38-0dc7fd2fbe88">
 <br>
 
-### :pushpin: 챌린지 상세페이지(다른 챌린지)
+### :pushpin: 챌린지 상세페이지(다른 챌린지일 경우)
 - 리더가 아니므로 가입하기만 표시
 - 인원마감여부 표시
 <img width="1000" alt="image" src="https://github.com/KimMinSoocoding/-Final_project_plogging_Backend/assets/113892151/e741ca75-4778-4c69-95dd-32038ff6ca7e">
+<br>
 
+### :pushpin: 챌린지 상세페이지(리더일경우)
+- 챌린지 일정을 생성하여 관리할 수 있다
+- 리더일경우만 일정추가가 가능 (버튼 유무)
 <img width="1000" alt="image" src="https://github.com/KimMinSoocoding/-Final_project_plogging_Backend/assets/113892151/da86ada1-4264-44ee-81bf-b94bf5751845">
+<br>
+
+### :pushpin: 챌린지 일정생성(리더일경우)
+- 챌린지 생성할때와 마찬가지로 현재날짜 기준으로 날짜를 설정할 수 있다 
+- 플로깅 추천경로를 이중모달창으로 리스트로 보여준다 해당 리스트를 보여줄때에는 10개씩 보여주고 페이지를 끝까지 내릴때만 업로드가된다 (최적화)
+<img width="600" alt="image" src="https://github.com/KimMinSoocoding/-Final_project_plogging_Backend/assets/113892151/f661901d-e45a-4893-abf1-39fd9f934d87">
+<img width="600" alt="image" src="https://github.com/KimMinSoocoding/-Final_project_plogging_Backend/assets/113892151/01f07691-0cb3-4b4c-97fa-c63412884091">
+<br>
+
+### :pushpin: 챌린지 일정/맴버 리스트(다른 챌린지일 경우) 
+- 일정추가를 할 수 없다 (참여만 가능)
+- 해당 챌린지에 가입한 맴버목록을 보여준다
+<img width="1000" alt="image" src="https://github.com/KimMinSoocoding/-Final_project_plogging_Backend/assets/113892151/34ffca96-71d9-414b-9c5d-7c7c40c118a5">
+<br>
+
+### :pushpin: 챌린지 일정참여
+- 일정참여 버튼으로 일정을 참여할 수 있다
+- 해당 일정 코스이름을 클릭하면 바로 해당 코스의 플로깅시작하기로 들어간다
+<img width="1000" alt="image" src="https://github.com/KimMinSoocoding/-Final_project_plogging_Backend/assets/113892151/55be3870-6cd1-4a24-a35b-ff7f8884bcc5">
+<img width="1000" alt="image" src="https://github.com/KimMinSoocoding/-Final_project_plogging_Backend/assets/113892151/de9f40fd-e7f6-436b-9866-c0a4fd390ce8">
+
+
 
 
 
