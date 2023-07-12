@@ -166,14 +166,38 @@
 
 
 <br>
+<br>
 
 ## :newspaper: UI/UX - Paper Prototyping
 <img width="1000" alt="image" src="https://github.com/KimMinSoocoding/-Final_project_plogging_Backend/assets/113892151/9da2ad70-04bb-49bf-91c9-5fcd839ef44c">
 
 <br>
+<br>
 
 ## :microscope: 추천 경로 데이터 마이닝 작업과정
 <img width="800" alt="image" src="https://github.com/KimMinSoocoding/-Final_project_plogging_Backend/assets/113892151/47b192e2-2712-432f-9d90-fe898ff42128"><img width="800" alt="image" src="https://github.com/KimMinSoocoding/-Final_project_plogging_Backend/assets/113892151/c5cadb56-9204-4923-8605-ed4e41606170">
+
+<br>
+<br>
+
+## :notebook: 각 페이지별 기능 구성 및  모바일 / 컴퓨터 UI 화면
+<img width="800" alt="image" src="https://github.com/KimMinSoocoding/-Final_project_plogging_Backend/assets/113892151/60204285-f5e4-4cd4-8d13-e34a0fa690b7">
+<img width="800" alt="image" src="https://github.com/KimMinSoocoding/-Final_project_plogging_Backend/assets/113892151/21895b73-ea10-4eca-a92a-5306fadc5877">
+<img width="800" alt="image" src="https://github.com/KimMinSoocoding/-Final_project_plogging_Backend/assets/113892151/a1571d1a-0641-4e4d-b2fa-30502db9e36f">
+<img width="800" alt="image" src="https://github.com/KimMinSoocoding/-Final_project_plogging_Backend/assets/113892151/3d39975a-59fb-4def-8463-c2ffe8a03759">
+<img width="800" alt="image" src="https://github.com/KimMinSoocoding/-Final_project_plogging_Backend/assets/113892151/8b5ef63b-b52f-4f06-be3b-030c703ca3a5">
+<img width="800" alt="image" src="https://github.com/KimMinSoocoding/-Final_project_plogging_Backend/assets/113892151/0e7dd9eb-b018-4c1e-bcb8-744c49f60916">
+<img width="800" alt="image" src="https://github.com/KimMinSoocoding/-Final_project_plogging_Backend/assets/113892151/bfd44a33-229f-40fd-9447-822b136d9b41">
+<img width="800" alt="image" src="https://github.com/KimMinSoocoding/-Final_project_plogging_Backend/assets/113892151/d35b5bf0-f13a-42dc-9d08-85df4dd86e33">
+<img width="800" alt="image" src="https://github.com/KimMinSoocoding/-Final_project_plogging_Backend/assets/113892151/c306cf04-ec20-4d74-9f29-3c8ed3bca491">
+
+
+
+
+
+
+
+
 
 
 
