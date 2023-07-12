@@ -237,6 +237,37 @@
 - 원하는 관리 탭 또는 우측하단 화살표 클릭 시 스크롤 이동
 <img width="800" alt="image" src="https://github.com/KimMinSoocoding/-Final_project_plogging_Backend/assets/113892151/c306cf04-ec20-4d74-9f29-3c8ed3bca491">
 
+<br>
+<br>
+<br>
+
+## :star: 본인파트(챌린지) 시연
+### :pushpin: 챌린지 페이지
+<img width="1000" alt="image" src="https://github.com/KimMinSoocoding/-Final_project_plogging_Backend/assets/113892151/37296d2f-9c94-4884-8a7e-2ef51c7cd705">
+<br>
+
+### :pushpin: 챌린지 생성
+- 챌린지 인원수는 2~10명으로 설정할 수 있다
+- 데이터 피커를 활용하여 챌린지 시작날짜는 오늘날짜 이후 / 챌린지 마지막 날짜는 시작날짜를 기준으로 기간설정
+<img width="600" alt="image" src="https://github.com/KimMinSoocoding/-Final_project_plogging_Backend/assets/113892151/9443f62c-2fa3-4b57-8a7e-d47a1472bda6">
+<br>
+
+### :pushpin: 챌린지 상세페이지(리더일경우)
+- 챌린지 제목(종료여부 표시)
+- 인원 및 기간표시
+- 챌린지 리더일경우 삭제하기 버튼만 표시
+- 리더는 생성과 동시에 자동가입
+<img width="1000" alt="image" src="https://github.com/KimMinSoocoding/-Final_project_plogging_Backend/assets/113892151/7478a212-ca4f-4bb9-9f38-0dc7fd2fbe88">
+<br>
+
+### :pushpin: 챌린지 상세페이지(다른 챌린지)
+- 리더가 아니므로 가입하기만 표시
+- 인원마감여부 표시
+<img width="1000" alt="image" src="https://github.com/KimMinSoocoding/-Final_project_plogging_Backend/assets/113892151/e741ca75-4778-4c69-95dd-32038ff6ca7e">
+
+<img width="1000" alt="image" src="https://github.com/KimMinSoocoding/-Final_project_plogging_Backend/assets/113892151/da86ada1-4264-44ee-81bf-b94bf5751845">
+
+
 
 
 
