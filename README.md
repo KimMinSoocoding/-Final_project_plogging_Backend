@@ -243,7 +243,11 @@
 
 ## :star: 본인파트(챌린지) 시연
 ### :pushpin: 챌린지 페이지
+- 로그인 상태라면 챌린지를 생성할 수 있다 (비로그인 이라면 로그인후 사용이 가능하다)
+- 현재 챌린지 리스트를 보여준다
 <img width="1000" alt="image" src="https://github.com/KimMinSoocoding/-Final_project_plogging_Backend/assets/113892151/37296d2f-9c94-4884-8a7e-2ef51c7cd705">
+<img width="1000" alt="image" src="https://github.com/KimMinSoocoding/-Final_project_plogging_Backend/assets/113892151/5c8a15c6-f1a9-4b92-a902-09d7ef828e76">
+
 <br>
 
 ### :pushpin: 챌린지 생성
