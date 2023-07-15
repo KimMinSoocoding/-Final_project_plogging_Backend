@@ -202,7 +202,13 @@
 - 경유지를 포함한 보행자 경로 표현 
 - 경로명, 경로설명, 출발지 주소를 통한 추천경로 검색
 - Pagination된 검색결과
+
 <img width="800" alt="image" src="https://github.com/KimMinSoocoding/-Final_project_plogging_Backend/assets/113892151/a1571d1a-0641-4e4d-b2fa-30502db9e36f">
+
+<br>
+
+https://github.com/KimMinSoocoding/Final_project_plogging_Backend/assets/113892151/e7a467ec-7229-4c05-bbed-dce4186b1002
+
 <br>
 
 ### :pushpin: Community 페이지 : 플로깅 완료 시 자동으로 인증 글 작성 페이지
