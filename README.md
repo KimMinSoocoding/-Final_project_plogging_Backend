@@ -145,6 +145,36 @@
 
 <br>
 
+## 시작 가이드
+
+### Requirements
+
+Backend
+
+- [Java version 1.8](https://www.oracle.com/java/technologies/downloads/#java17)
+- SpringBoot 2.7.14(SNAPSHOT)
+- Gradle - Groovy
+
+Frontend
+
+- node.js with npm
+
+### Installation
+
+Backend
+
+```bash
+$ git clone https://github.com/plogging-project/Plogging_Project_Backend.git
+```
+
+Frontend
+
+```bash
+$ git clone https://github.com/plogging-project/Plogging_Project_Frontend.git
+```
+
+<br>
+
 ## :laughing: 프로젝트 설명
 ### :pushpin: 주제선정 동기
 - :one: 기능적 요구 1 : **다양한 외부 API의 사용과 공공 데이터 활용**
